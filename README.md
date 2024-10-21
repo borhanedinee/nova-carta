@@ -20,7 +20,7 @@ Nova Carta is a mobile e-commerce application developed using **Flutter** for th
 
 In this project, I gained valuable experience in:
 
-- Conceiving a complete mobile app, from designing the database to building both the backend and frontend.
+- Conception of a complete mobile app, from designing the database to building both the backend and frontend.
 - Implementing push notifications to keep users updated in real time.
 - Structuring the project using clean architecture principles.
 
